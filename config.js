@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Thương thì thương mà không thương cũng là thương <33333333',
     mess: 'tui biết mà, ahihi🥰. Mãi thương nhiều nhiều 😘😘',
     messDesc: 'nào hết dịch làm cái kèo to to nhá.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunnn <3',
     messLink: 'hhttps://www.youtube.com/watch?v=XRApso9_H44
 }
